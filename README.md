@@ -8,7 +8,7 @@
 
 🔗 [IP 주소](https://pyeonsik.vercel.app/)
 
-📜 [S.A (Starting Assignments)](https://www.notion.so/SE7EN-DAYS-S-A-18c506d357b743c78f58a76550c92d40)
+📜 [S.A (Starting Assignments)]([https://www.notion.so/SE7EN-DAYS-S-A-18c506d357b743c78f58a76550c92d40](https://www.notion.so/15c92b652b884324bd13611fe76adead))
 
 #### 📌 핵심 기능
 
@@ -469,3 +469,4 @@
 ┣ 📜react-app-env.d.ts<br/>
 ┣ 📜react-swipy.d.ts<br/>
 ┗ 📜toast.css<br/>
+
